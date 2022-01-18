@@ -207,6 +207,7 @@ fun main() {
         }
         println(stringLength)
 
+
         /* Scope Function: 'with' (if you want to operate on a non-null object)
         Property 1: Refer to context object by using 'this'
         Property 2: The return value is the 'lambda result'  */
